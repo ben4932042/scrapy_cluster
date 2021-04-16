@@ -1,0 +1,11 @@
+__pycache__
+.DS_Store
+.env
+*.log
+.ipynb_checkpoints
+google-api.json
+data
+geckodriver.log
+tmp
+*.ipynb
+.pytest_cache
